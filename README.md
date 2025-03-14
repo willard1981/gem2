@@ -208,6 +208,9 @@ By default, the server starts on port 9000. You can override the default port
 the server listens on by setting the environment variable `PORT` in the command
 above.
 
+## Chat App UI Screenshot
+![UI Screenshot](https://raw.githubusercontent.com/Ekam219/example-chat-app/main/chat-app-screenshot.jpg)
+
 ## Usage
 
 To start using the app, visit [http://localhost:3000](http://localhost:3000/)

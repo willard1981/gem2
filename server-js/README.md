@@ -41,3 +41,7 @@ By default, the app will run on port 9000.
 
 If you want to specify your port, edit the `PORT` key in your `.env` file.
 `PORT=xxxx`
+## Chat App UI Screenshot
+Below is a screenshot of the Chat App’s user interface.
+
+![UI Screenshot](https://raw.githubusercontent.com/Ekam219/example-chat-app/main/chat-app-screenshot.jpg)

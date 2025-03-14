@@ -22,3 +22,7 @@ GOOGLE_API_KEY=<your_api_key> PORT=<your_port> go run .
 ## Environment Variables
 * GOOGLE_API_KEY: API key for Gemini service.
 * PORT: The port this server is listening on (default 9000).
+## Chat App UI Screenshot
+Below is a screenshot of the Chat App’s user interface.
+
+![UI Screenshot](https://raw.githubusercontent.com/Ekam219/example-chat-app/main/chat-app-screenshot.jpg)
